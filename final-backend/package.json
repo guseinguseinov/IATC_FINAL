@@ -1,0 +1,17 @@
+{
+  "name": "final-backend",
+  "version": "1.0.0",
+  "description": "salammalas",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
