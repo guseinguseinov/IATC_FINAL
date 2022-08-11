@@ -1,1 +1,1 @@
-salammalas
+salam
