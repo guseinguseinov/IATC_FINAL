@@ -1,0 +1,6 @@
+
+const userCtrl = {
+    async getAllUsers() {
+
+    }
+}
