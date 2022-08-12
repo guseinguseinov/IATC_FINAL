@@ -17,7 +17,7 @@ const SliderSchema = new mongoose.Schema({
         type: String,
         required: true,
     }
-});
+},{ timestamps: true });
 
 const SliderModel = mongoose.model('sliders', SliderSchema);
 
